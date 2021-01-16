@@ -19,7 +19,7 @@
 
 ## Supported Platforms
 
-- Android ([Download APK](RandomUser.apk))
+- Android ([Download APK](https://github.com/scyther/RandomUser/raw/main/RandomUser.apk))
 
 ## How to run
 
